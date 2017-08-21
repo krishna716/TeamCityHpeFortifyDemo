@@ -1,0 +1,12 @@
+ 
+"-libdirs" 
+"C:\Projects\HPFortyfyDemo\HPFortyfyDemo\bin\Microsoft.AI.Agent.Intercept.dll;C:\Projects\HPFortyfyDemo\HPFortyfyDemo\bin\Microsoft.AI.DependencyCollector.dll;C:\Projects\HPFortyfyDemo\HPFortyfyDemo\bin\Microsoft.AI.PerfCounterCollector.dll;C:\Projects\HPFortyfyDemo\HPFortyfyDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll;C:\Projects\HPFortyfyDemo\HPFortyfyDemo\bin\Microsoft.AI.Web.dll" 
+"-libdirs" 
+"C:\Projects\HPFortyfyDemo\HPFortyfyDemo\bin\Microsoft.AI.WindowsServer.dll;C:\Projects\HPFortyfyDemo\HPFortyfyDemo\bin\Microsoft.ApplicationInsights.dll;C:\Projects\HPFortyfyDemo\HPFortyfyDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll;C:\Projects\HPFortyfyDemo\HPFortyfyDemo\bin\Microsoft.Web.Infrastructure.dll;C:\Projects\HPFortyfyDemo\HPFortyfyDemo\bin\Newtonsoft.Json.dll" 
+"-libdirs" 
+"C:\Projects\HPFortyfyDemo\HPFortyfyDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll;C:\Projects\HPFortyfyDemo\HPFortyfyDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll;C:\Projects\HPFortyfyDemo\HPFortyfyDemo\bin\roslyn\Microsoft.CodeAnalysis.dll;C:\Projects\HPFortyfyDemo\HPFortyfyDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll;C:\Projects\HPFortyfyDemo\HPFortyfyDemo\bin\roslyn\System.Collections.Immutable.dll" 
+"-libdirs" 
+"C:\Projects\HPFortyfyDemo\HPFortyfyDemo\bin\roslyn\System.Reflection.Metadata.dll;C:\Projects\HPFortyfyDemo\HPFortyfyDemo\bin\System.Web.Helpers.dll;C:\Projects\HPFortyfyDemo\HPFortyfyDemo\bin\System.Web.Mvc.dll;C:\Projects\HPFortyfyDemo\HPFortyfyDemo\bin\System.Web.Optimization.dll;C:\Projects\HPFortyfyDemo\HPFortyfyDemo\bin\System.Web.Razor.dll" 
+"-libdirs" 
+"C:\Projects\HPFortyfyDemo\HPFortyfyDemo\bin\System.Web.WebPages.Deployment.dll;C:\Projects\HPFortyfyDemo\HPFortyfyDemo\bin\System.Web.WebPages.dll;C:\Projects\HPFortyfyDemo\HPFortyfyDemo\bin\System.Web.WebPages.Razor.dll;C:\Projects\HPFortyfyDemo\HPFortyfyDemo\bin\WebGrease.dll" 
+"C:\Projects\HPFortyfyDemo\HPFortyfyDemo" 
