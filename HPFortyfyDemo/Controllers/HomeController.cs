@@ -8,6 +8,7 @@ namespace HPFortyfyDemo.Controllers
 {
     public class HomeController : Controller
     {
+        //Comment added
         public ActionResult Index()
         {
             return View();
